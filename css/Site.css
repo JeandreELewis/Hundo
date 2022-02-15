@@ -3,9 +3,16 @@
     --secondary-color: #ff993b;
     --dark-color: #292929;
     --white-color: #e7e7e7;
-
+}
+.odd{
+    font-weight: 100;
+    color: black;
 }
 
+.even{
+    font-weight: bold;
+    color: red;
+}
 
 body{
     color:var(--dark-color);
